@@ -2,6 +2,8 @@
 
 Notes for the [fast.ai](http://fast.ai) course.
 
+Github copy is at [bennettp123/fast.ai-stuff](https://github.com/bennettp123/fast.ai-stuff).
+
 # awscli
 
 Course link: [course.fast.ai/lessons/aws.html](http://course.fast.ai/lessons/aws.html)
